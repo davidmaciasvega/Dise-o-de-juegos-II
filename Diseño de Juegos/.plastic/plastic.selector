@@ -1,0 +1,4 @@
+repository "Diseño de Juegos/Diseño de Juegos@4674043255201@cloud"
+  path "/"
+    br "/main"
+    co "/main"
